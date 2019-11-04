@@ -1,0 +1,6 @@
+@prefix rdf:<http://wwww.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix dc:<http://purl.org/dc/elements/1.1/>.
+
+rdf:Description rdf:about <http://purl.org/dc/elements/1.1/>;
+dc:title "web";
+dc:creator "Barners-Lee".

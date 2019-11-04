@@ -1,0 +1,6 @@
+@prefix rdf:<http://wwww.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix si:<http://www.w3ii.com/rdf/>.
+
+rdf:Description rdf:about<http://www.w3ii.com>;
+		si:title "w3ii";
+		si:author "Jan Egil Refsnes".

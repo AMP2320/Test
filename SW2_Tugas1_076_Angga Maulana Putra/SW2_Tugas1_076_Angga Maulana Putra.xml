@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+	<!--
+		1.XML NAMESPAE adalah suata penamaan pada atribut dan elemen yang ditentukan developer,
+		2.XML NAMESPACE digunakan untuk menyediakan elemen dan atribut yang dinamai secara unik dalam dokumen XML.
+	-->
+<root xmlns:i="http://www.ilkom.usu.ac.id/TR/html4"
+	xmlns:k="http://www.usu.ac.id/fisip/furniture">
+<UniversitasSumateraUtara>
+	<i:jurusan category="Ilmu Komputer">
+		<i:fakultas>FASILKOM-TI</i:fakultas>
+		 <i:berdiri>Tahun 2001</i:berdiri>
+		  <i:dekan>Prof.Dr.Opim Salim Sitompul, M.Sc.</i:dekan>
+		   <i:kaprodi>Dr.Poltak Sihombing,M.Kom</i:kaprodi>
+		    <i:sekprodi>Herriyance ST,M.Kom</i:sekprodi>
+		     <i:alamat>Jl.Universitas No.9 Kampus USU</i:alamat>
+		      <i:organisasi>IMILKOM</i:organisasi>
+	</i:jurusan>
+
+	<k:jurusan category="Ilmu Komunikasi">
+		<k:fakultas>FISIP</k:fakultas>
+		<k:berdiri>Tahun 1981</k:berdiri>
+		<k:dekan>Prof. Dr.Badaruddin, M.Si</k:dekan>
+		<k:kaprodi>Dra. Fatma Wardy Lubis, M.A</k:kaprodi>
+		<k:sekprodi> Dra. Dayana, Msi</k:sekprodi>
+		<k:alamat>Jalan Dr A. Sofian No: 1A Kampus USU</k:alamat>
+		<k:organisasi>IMAJINASI</k:organisasi>
+	</k:jurusan>
+</UniversitasSumateraUtara>
+</root>
